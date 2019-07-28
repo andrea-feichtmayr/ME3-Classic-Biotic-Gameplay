@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioEngine" name="bioengine.ini" source="..\..\biogame\config\bioengine.ini">
+  <Sections>
+    <Section name="configuration">
+      <Property name="basedon" type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\Config\DefaultEngine.ini</Property>
+    </Section>
+    <Section name="core.system">
+      <Property name="cookpaths">
+        <Value type="1">null</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\Content</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\Script</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\ScriptFinalRelease</Value>
+      </Property>
+      <Property name="frscriptpaths">
+        <Value type="2">..\..\BIOGame\DLC\DLC_Shared\ScriptFinalRelease</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\ScriptFinalRelease</Value>
+      </Property>
+      <Property name="paths">
+        <Value type="2">..\..\BIOGame\DLC\DLC_Shared\__Trashcan</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_Shared\Content</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_Shared\TestContent</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\__Trashcan</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\Content</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\TestContent</Value>
+      </Property>
+      <Property name="scriptpaths">
+        <Value type="2">..\..\BIOGame\DLC\DLC_Shared\Script</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\Script</Value>
+      </Property>
+      <Property name="seekfreepcpaths">
+        <Value type="2">..\..\BIOGame\DLC\DLC_Shared\CookedPCConsole</Value>
+        <Value type="2">..\..\BIOGame\DLC\DLC_MOD_CBIOTIC\CookedPCConsole</Value>
+      </Property>
+    </Section>
+    <Section name="unrealed.editorengine">
+      <Property name="editpackages">
+        <Value type="2">SFXGameContentDLC_Shared</Value>
+        <Value type="2">SFXGameContentDLC_MOD_CBIOTIC</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

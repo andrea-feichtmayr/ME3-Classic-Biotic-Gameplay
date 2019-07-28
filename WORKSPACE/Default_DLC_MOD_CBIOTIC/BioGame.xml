@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioGame" name="biogame.ini" source="..\..\biogame\config\biogame.ini">
+  <Sections>
+    <Section name="sfxgamecontent.sfxpowercustomaction_pull">
+      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+    </Section>
+	<Section name="sfxgamecontent.sfxpowercustomaction_throw">
+      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+    </Section>
+	<Section name="sfxgamecontent.sfxpowercustomaction_warp">
+      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+    </Section>
+	<Section name="sfxgamecontent.sfxpowercustomaction_singularity">
+      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

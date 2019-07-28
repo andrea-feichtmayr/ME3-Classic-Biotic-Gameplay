@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TlkFile name="DLC_MOD_CBIOTIC_ITA/DLC_MOD_CBIOTIC_ITA0.xml">
+    <Strings>
+        <String id="1">Classic Biotic Gameplay DLC Module</String>
+        <String id="2">DLC_MOD_CBIOTIC</String>
+        <String id="3">it-it</String>
+        <String id="4">Male</String>
+        <String id="5">Female</String>
+    </Strings>
+</TlkFile>
