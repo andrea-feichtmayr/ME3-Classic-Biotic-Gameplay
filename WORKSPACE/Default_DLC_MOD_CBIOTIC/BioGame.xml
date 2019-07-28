@@ -3,19 +3,19 @@
   <Sections>
     <Section name="sfxgamecontent.sfxpowercustomaction_pull">
       <Property name="cooldowntime" type="0">(BaseValue=0.0f,RankBonuses[0]=0.0f,RankBonuses[1]=0.25f,RankBonuses[2]=0.0f,Formula=DivideByBonusSum)</Property>
-      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+      <Property name="projectilespeed" type="0">(BaseValue=900000000.0f)</Property>
     </Section>
 	<Section name="sfxgamecontent.sfxpowercustomaction_throw">
       <Property name="cooldowntime" type="0">(BaseValue=0.0f,RankBonuses[0]=0.0f,RankBonuses[1]=0.25f,RankBonuses[2]=0.0f,Formula=DivideByBonusSum)</Property>
-      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+      <Property name="projectilespeed" type="0">(BaseValue=900000000.0f)</Property>
     </Section>
 	<Section name="sfxgamecontent.sfxpowercustomaction_warp">
       <Property name="cooldowntime" type="0">(BaseValue=0.0f,RankBonuses[1]=0.25f,Formula=DivideByBonusSum)</Property>
-      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+      <Property name="projectilespeed" type="0">(BaseValue=900000000.0f)</Property>
     </Section>
 	<Section name="sfxgamecontent.sfxpowercustomaction_singularity">
-      <Property name="cooldowntime" type="0">(BaseValue=0,RankBonuses[1]=0.25f,Formula=DivideByBonusSum)</Property>
-      <Property name="projectilespeed" type="0">(BaseValue=90000.0f)</Property>
+      <Property name="cooldowntime" type="0">(BaseValue=0.0f,RankBonuses[1]=0.25f,Formula=DivideByBonusSum)</Property>
+      <Property name="projectilespeed" type="0">(BaseValue=900000000.0f)</Property>
     </Section>
 	<Section name="sfxgamecontent.sfxpowercustomaction_shockwave">
       <Property name="cooldowntime" type="0">(BaseValue=0.0f,RankBonuses[1]=0.25f,Formula=DivideByBonusSum)</Property>

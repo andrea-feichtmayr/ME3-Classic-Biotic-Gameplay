@@ -19,11 +19,6 @@ If you are not happy with the mod or simply want to remove it because of other
 reasons, uninstallation is very easy. Either use your mod manager or remove
 the `DLC_MOD_CBIOTIC` directory from ME3's DLC directory.
 
-## Issues
-Sometimes powers miss although the game highlights a target, this is due the
-removal of projectile arching. The solution to this is to simply aim directly
-at the target.
-
 ## Credits
 The ME3Explorer Team for ME3Explorer  
 Mgamerz for the ME3Tweaks Mod Manager  
