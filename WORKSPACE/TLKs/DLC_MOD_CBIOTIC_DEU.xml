@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TlkFile name="DLC_MOD_CBIOTIC_DEU/DLC_MOD_CBIOTIC_DEU0.xml">
     <Strings>
-        <String id="1">Classic Biotic Gameplay DLC Module</String>
-        <String id="2">DLC_MOD_CBIOTIC</String>
-        <String id="3">de-de</String>
-        <String id="4">Male</String>
-        <String id="5">Female</String>
+        <String id="52015001">Classic Biotic Gameplay DLC Module</String>
+        <String id="52015002">DLC_MOD_CBIOTIC</String>
+        <String id="52015003">de-de</String>
+        <String id="52015004">Male</String>
+        <String id="52015005">Female</String>
     </Strings>
 </TlkFile>
